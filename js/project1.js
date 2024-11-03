@@ -7,7 +7,10 @@ document.addEventListener('DOMContentLoaded', () => {
     // TODO: Declare variables for name, age, and isStudent setting values with your own name, age, and student status.
     
     const introduction = (name, age, isStudent) => {
-
+const name = brie;
+        const age = 30;
+        isStudent = true;
+        
         // TODO: Check if isStudent is true or false and set text output to a new variable called studentStatus
         // - If isStudent is true, set studentStatus to "I am currently a student."
         // - If isStudent is false, set studentStatus to "I am not a student."
